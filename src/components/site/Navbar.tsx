@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import logo from "@/assets/logo-secondary.png";
+import logo from "@/assets/logo-nav.png";
 import { Menu, X } from "lucide-react";
 
 const links = [
