@@ -32,7 +32,50 @@ export default function HomePage() {
           content="Logistics, cleaning and moving — done right. Servicing Gauteng and beyond."
         />
 
-        <meta property="og:type" content="website" />
+        <meta
+          property="og:type"
+          content="website"
+        />
+
+        <meta
+          property="og:url"
+          content="https://otclogistics.co.za"
+        />
+
+        <meta
+          property="og:image"
+          content="https://otclogistics.co.za/src/assets/logo-main.png"
+        />
+
+        <meta
+          property="og:image:width"
+          content="1200"
+        />
+
+        <meta
+          property="og:image:height"
+          content="630"
+        />
+
+        <meta
+          name="twitter:card"
+          content="summary_large_image"
+        />
+
+        <meta
+          name="twitter:title"
+          content="OTC Logistics & Cleaning Services"
+        />
+
+        <meta
+          name="twitter:description"
+          content="Reliable logistics, cleaning and moving services across Johannesburg and beyond."
+        />
+
+        <meta
+          name="twitter:image"
+          content="https://otclogistics.co.za/src/assets/logo-main.png"
+        />
 
         <link rel="icon" href="/favicon.png" />
       </Helmet>
