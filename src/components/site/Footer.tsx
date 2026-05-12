@@ -1,4 +1,4 @@
-import logo from "@/assets/logo-secondary.png";
+import logo from "@/assets/logo-nav.png";
 import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react";
 
 const links = [
@@ -29,7 +29,7 @@ export function Footer() {
 
         <div className="mt-12 grid gap-10 md:grid-cols-4">
           <div className="md:col-span-2">
-            <img src={logo} alt="OTC Logistics" className="h-12 w-auto brightness-0 invert" />
+            <img src={logo} alt="OTC Logistics" className="h-14 w-auto rounded-lg bg-white p-2" />
             <p className="mt-4 max-w-md text-sm text-white/70">
               OTC Logistics & Cleaning Services — Johannesburg-based logistics, cleaning and moving experts
               servicing Gauteng and beyond.
